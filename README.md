@@ -1,8 +1,6 @@
 # Task-1
 Data cleaning and preprocessing
 
-# 📊 Task 1 - Data Cleaning: Marketing Campaign Dataset
-
 ## 📁 Files Included
 - `marketing_campaign.xlsx` — Original dataset (raw)
 - `data_cleaning_marketing.py` — Python script for data cleaning
