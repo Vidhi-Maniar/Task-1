@@ -4,7 +4,7 @@ Data cleaning and preprocessing
 Files Included
 marketing_campaign.xls — Original dataset
 main.ipynb — Python script for data cleaning
-cleaned_marketing_camapign — Cleaned and processed dataset
+cleaned_marketing_camapign.xls — Cleaned and processed dataset
 README.md — Summary of what was done
 
 ---
